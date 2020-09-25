@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--alt+enter, extract string resource. no texto do title para adicionar ao arquivo de strings.-->
+    <item
+        android:title="@string/menu_buscar"
+        android:id="@+id/search_menu"
+        app:showAsAction="always"
+    />
+    <item
+        android:title="@string/menu_carrinho"
+        android:id="@+id/carrinho_menu"
+        app:showAsAction="always"
+    />
+    <item
+        android:title="@string/menu_config"
+        android:id="@+id/config_menu"
+    />
+    <item
+
+        android:title="@string/menu_sobre"
+        android:id="@+id/about_menu"
+        />
+</menu>
