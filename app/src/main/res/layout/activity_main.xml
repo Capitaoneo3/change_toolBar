@@ -7,7 +7,6 @@
     tools:context=".MainActivity">
 
     <include layout="@layout/action_bar">
-
     </include>
 </androidx.constraintlayout.widget.ConstraintLayout>
 

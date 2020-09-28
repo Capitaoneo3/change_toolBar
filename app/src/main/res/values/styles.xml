@@ -1,5 +1,8 @@
 <resources>
-    <!-- Base application theme. -->
+    <!-- Base application theme.
+     você pode escrever NoActionBar no tema,
+      depois incluir na activity main o actionbar.xml
+     -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
