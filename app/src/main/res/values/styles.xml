@@ -8,6 +8,11 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="popupTheme">@style/PopupMenuTheme</item>
+    </style>
+    
+    <style name="PopupMenuTheme" parent="ThemeOverlay.AppCompat.Light">//desative e ative, como isso consegue afetar a cor do background do popupMenu ?????
+        <item name="android:background">@android:color/white</item>
     </style>
 
 </resources>
