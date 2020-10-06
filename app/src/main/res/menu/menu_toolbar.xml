@@ -6,11 +6,13 @@
         android:title="@string/menu_buscar"
         android:id="@+id/search_menu"
         app:showAsAction="always"
+        android:icon="@drawable/baseline_search_24"
     />
     <item
         android:title="@string/menu_carrinho"
         android:id="@+id/carrinho_menu"
         app:showAsAction="always"
+        android:icon="@drawable/baseline_shopping_cart_24"
     />
     <item
         android:title="@string/menu_config"
